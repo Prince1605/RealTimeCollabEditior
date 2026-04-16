@@ -1,2 +1,13 @@
 node_modules
 .env
+# Ignore deployment notes
+how to diploloy.txt
+
+# Ignore docker file (if you want)
+dockerfile
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
