@@ -1,9 +1,0 @@
-Frontend =>Build[npm run build] =>dist folder k sare content ko move into the backend =>mkdir public folder me
-then,
-run Bakcend server[node server.js]
-=>ye sare step jab hum docker me kr rhe hote hy to ise docker file k ander likhte hai 
-----------------------------
-how to run it -> use for building
-->docker build . -t server
-use for running port mapping
-->docker run -p 4000:3000 server
